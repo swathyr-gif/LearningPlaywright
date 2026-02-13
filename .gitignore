@@ -26,3 +26,6 @@ coverage/
 
 ## Logs
 *.log
+
+# Keep this folder local only (do not track in git)
+chapter_02_Java_Concepts/
